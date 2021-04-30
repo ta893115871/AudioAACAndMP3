@@ -13,7 +13,7 @@ import java.nio.channels.FileChannel
 
 
 /**
- * Created by guxiuzhong@baidu.com on 2021/2/13.
+ * Created by guxiuzhong on 2021/2/13.
  */
 class DecodeMp3Thread(private val srcPath: String, private val outPath: String) : Thread() {
     companion object {
