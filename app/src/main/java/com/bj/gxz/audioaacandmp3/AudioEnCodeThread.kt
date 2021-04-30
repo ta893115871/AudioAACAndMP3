@@ -7,7 +7,7 @@ import java.io.FileOutputStream
 
 
 /**
- * Created by guxiuzhong@baidu.com on 2021/2/13.
+ * Created by guxiuzhong on 2021/2/13.
  */
 class AudioEnCodeThread : Thread() {
 
